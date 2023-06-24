@@ -23,7 +23,7 @@ body::-webkit-scrollbar {
 	width: 5vw;
 	border-color: white;
 	background-repeat: no-repeat;
-	background-image: url("images/logo.jpg");
+	background-image: url("logo.jpg");
 	background-position: cover;
 	background-size: 100% 100%;
 	margin-top: 10px;
